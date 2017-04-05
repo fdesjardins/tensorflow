@@ -4,6 +4,7 @@ A space for learning TensorFlow and related subjects
 
 - https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/jtoy/awesome-tensorflow
+- https://www.cs.cmu.edu/~tom/10601_fall2012/
 
 ## License
 

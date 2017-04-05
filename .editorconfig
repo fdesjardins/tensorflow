@@ -1,6 +1,6 @@
 root = true
 
-[*.{py,txt}]
+[*.{py,ipynb,txt}]
 indent_style = space
 trim_trailing_whitespace = true
 indent_size = 2
