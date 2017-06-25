@@ -1,4 +1,4 @@
-A space for learning TensorFlow and related subjects
+Tensorflow and scientific computing examples
 
 ## Resources
 
